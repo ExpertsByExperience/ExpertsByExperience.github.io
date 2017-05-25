@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Experts by Experience
+title: About
 tags: [about]
 date: 2017-05-25
 comments: false
