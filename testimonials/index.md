@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Testimonials
-excerpt: "A List of testimonials"
+excerpt: "A collection of testimonials"
 comments: false
 ---
 
