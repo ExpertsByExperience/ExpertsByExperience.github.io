@@ -1,6 +1,6 @@
 # Site
 title:              Experts by Experience
-bio:                "I'm not sure what the bio should say."
+bio:                "Experts by Experience gives researchers and trainee clinicians the chance to learn about mental health disorders from people who have lived experience of the symptoms."
 description:        "Experts by Experience gives researchers and trainee clinicians the chance to learn about mental health disorders from people who have lived experience of the symptoms."
 reading_time:       false
 words_per_minute:   200
@@ -40,7 +40,7 @@ disqus_shortname:   ExpertsByExperience
 #email:
 #twitter:            username
 #facebook:           username
-github-url:         ExpertsByExperience
+#github-url:         ExpertsByExperience
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
