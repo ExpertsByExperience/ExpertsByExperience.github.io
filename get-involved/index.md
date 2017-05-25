@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: page
 title: Get Involved
 excerpt: "How to get involved with Experts by Experience"
 comments: false
